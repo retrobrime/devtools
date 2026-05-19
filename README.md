@@ -4,7 +4,7 @@ Free local-first browser utilities for real developer work.
 
 ## Preview
 
-![devTools preview](devtools-preview.png)
+![devTools preview](devtools-preview.jpg)
 
 ## Live App
 
