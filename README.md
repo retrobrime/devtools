@@ -2,6 +2,10 @@
 
 Free local-first browser utilities for real developer work.
 
+## Preview
+
+![devTools preview](devtools-preview.png)
+
 ## Live App
 
 Launch devTools:
